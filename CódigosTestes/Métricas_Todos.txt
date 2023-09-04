@@ -1,0 +1,48 @@
+Teste_Resnet:
+
+Métricas de Treinamento:
+Loss: 0.1484
+Acurácia: 83.13%
+Precisão: 95.20%
+Recall: 81.09%
+
+Métricas de Validação:
+Loss: 881.4910
+Acurácia: 50.00%
+Precisão: 0.00%
+Recall: 0.00%
+
+Teste_Resnet(2):
+
+
+Métricas de Treinamento:
+Loss: 0.5980
+Acurácia: 79.28%
+Precisão: 97.01%
+Recall: 74.41%
+F1 Score (Treinamento): 84.22%
+
+Métricas de Validação:
+Loss: 0.8979
+Acurácia: 62.50%
+Precisão: 57.14%
+Recall: 100.00%
+F1 Score (Validação): 72.73%
+
+
+Teste_Resnet(3):
+
+
+Métricas de Treinamento:
+Loss: 0.4361
+Acurácia: 79.88%
+Precisão: 92.59%
+Recall: 79.26%
+F1 Score (Treinamento): 85.41%
+
+Métricas de Validação:
+Loss: 1.4542
+Acurácia: 50.00%
+Precisão: 50.00%
+Recall: 62.50%
+F1 Score (Validação): 55.56%
