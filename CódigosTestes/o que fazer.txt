@@ -1,0 +1,1 @@
+executar cada modelo , um sem nada, um com data augmentation e um com filtros
